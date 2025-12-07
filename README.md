@@ -42,17 +42,24 @@ Visualizations include:
 
 ## ☑ Key Insights
 
-* **Entire home/apartment** is the most expensive room type, while **shared rooms** are budget-friendly.
-* Some neighbourhoods show **high demand with low availability**, indicating strong booking activity.
-* Listings with **high number of reviews** often have **competitive pricing and higher ratings**.
-* A few hosts manage **large number of listings**, indicating small business operations within Airbnb.
+* Most popular neighbourhoods and central locations attract higher booking demand and charge premium prices.
+* Room type and host reputation strongly influence pricing, ratings, and overall guest satisfaction.
+
 
 ---
 
-## 📁 Project Structure (example)
+## 📁 Project Structure
 
 
 ## 🔍 Visualization Preview
+<img width="541" height="413" alt="Price_outlier" src="https://github.com/user-attachments/assets/0e4ae7e0-0665-45b2-9522-517d2caf5b39" />
+<img width="720" height="462" alt="Price distribution" src="https://github.com/user-attachments/assets/7dacea51-4eb0-4a27-97e2-357ddc9e8361" />
+<img width="555" height="323" alt="Availability_distribution" src="https://github.com/user-attachments/assets/8c22d6cc-8ac1-4a9d-b01f-333b236eeec0" />
+<img width="575" height="442" alt="price dependency" src="https://github.com/user-attachments/assets/87dfe958-7b7d-4a6d-83fb-4ee2fe888394" />
+<img width="710" height="449" alt="reviews vs price" src="https://github.com/user-attachments/assets/db86f7b4-5335-4caf-985f-d1861173ef21" />
+<img width="863" height="477" alt="geographical distribution" src="https://github.com/user-attachments/assets/44fa201f-71db-44d6-9d49-593258f9a1bd" />
+<img width="752" height="475" alt="Heatmap_corr" src="https://github.com/user-attachments/assets/08f3e8d9-e08a-4427-a147-37962653fb8d" />
+
 
 
 ## 🛠 Tools & Technologies
@@ -72,6 +79,3 @@ Visualizations include:
 * Price prediction using Machine Learning
 * Geospatial mapping using Folium / Kepler.gl
 * Interactive dashboards using PowerBI / Tableau
-
-
-Just tell me — happy to help! 🚀
