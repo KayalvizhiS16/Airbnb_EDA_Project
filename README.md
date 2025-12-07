@@ -48,8 +48,6 @@ Visualizations include:
 
 ---
 
-## 📁 Project Structure
-
 
 ## 🔍 Visualization Preview
 <img width="541" height="413" alt="Price_outlier" src="https://github.com/user-attachments/assets/0e4ae7e0-0665-45b2-9522-517d2caf5b39" />
