@@ -1,5 +1,3 @@
-# Airbnb_EDA_Project
-
 # 🏡 Airbnb Data Analysis — Exploratory Data Analysis (EDA)
 
 This project focuses on analyzing Airbnb listing data to understand pricing patterns, host behavior, room availability, neighbourhood demand, and customer engagement based on reviews.
@@ -9,11 +7,12 @@ The dataset contains **20,770 entries** with **22 features** including host deta
 
 ## 🔧 Data Preprocessing Steps
 
-✔ Handled missing values
-✔ Converted data types where required
-✔ Removed duplicate entries
-✔ Outlier treatment for pricing and reviews
-✔ Standardized column names and formats
+* Handled missing values
+* Converted data types where required
+* Removed duplicate entries
+* Performed outlier treatment for pricing and reviews
+* Standardized column names and formats
+
 
 ---
 
@@ -55,16 +54,6 @@ Visualizations include:
 
 ## 🔍 Visualization Preview
 
-(Add images here when uploaded)
-
-```
-![Price Distribution](visuals/price_distribution.png)
-![Room Type vs Price](visuals/roomtype_price_comparison.png)
-```
-
-📎 Full PDF Report → **[Download](All_Visuals.pdf)**
-
----
 
 ## 🛠 Tools & Technologies
 
@@ -84,16 +73,5 @@ Visualizations include:
 * Geospatial mapping using Folium / Kepler.gl
 * Interactive dashboards using PowerBI / Tableau
 
----
-
-📌 *This project helps understand the Airbnb marketplace from multiple perspectives — pricing, demand, location, host strategy & customer engagement.*
-
----
-
-If you want, I can also generate:
-
-✔ A **project title banner image**
-✔ A **GitHub badge section**
-✔ **Insight tables / summary graphics**
 
 Just tell me — happy to help! 🚀
